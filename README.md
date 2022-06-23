@@ -1,1 +1,3 @@
-# calculator
+# Calculator
+
+# Table of Contents
