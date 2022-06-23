@@ -6,7 +6,7 @@
 
 ### Task
 
-Make online calculator
+Make online calculator using HTML, JS and CSS
 
 ### Screenshot
 
@@ -15,8 +15,18 @@ Make online calculator
 
 ## Process
 
-### What I used?
+### What I've used?
 
-・HTML5
-・CSS
-・JavaScript
+・HTML5,
+
+・CSS,
+
+・JavaScript.
+
+### What I've learned?
+
+・ Simple tasks in JavaScript.
+
+### What I'll do in the future?
+
+・ More features like counting in different numeral systems.
